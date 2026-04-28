@@ -1,7 +1,7 @@
 # AI-Slop-Detector
 A machine learning project that detects whether a piece of text is AI-generated or human-written using a fine-tuned BERT model trained on the RAID dataset.
 
-🚀 Overview
+🚀 Overview-
 
 With the rapid rise of AI-generated content, distinguishing between human and machine-written text has become increasingly important. This project builds a binary text classifier that analyzes linguistic patterns and predicts whether a given input is AI-generated.
 
