@@ -7,7 +7,7 @@ With the rapid rise of AI-generated content, distinguishing between human and ma
 
 The model is trained on the RAID dataset, which includes diverse domains and outputs from multiple AI models, enabling robust evaluation across different writing styles.
 
-🏗️ System Architecture
+🏗️ System Architecture-
 RAID Dataset → Preprocessing → Tokenization → BERT Fine-Tuning → Evaluation → Flask API
 🧰 Tech Stack
 Python – Core programming language
